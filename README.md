@@ -1,2 +1,2 @@
-# Tidepod-Challenge-Nes-Game
+# Tidepod Challenge
 Tidepod Challenge - The Game
